@@ -19,7 +19,7 @@ El programa realiza los siguientes pasos:
 1. Clona este repositorio o descarga el archivo `password_evaluator.py`.
 2. Ejecuta el script:
     ```sh
-    python password_evaluator.py
+    python fuerza_bruta.py
     ```
 3. Ingresa la contraseña cuando se te solicite.
 4. El programa mostrará la cantidad de intentos necesarios para adivinar la contraseña.
